@@ -2,7 +2,7 @@
 FROM python:3.7
 
 # 维护者信息
-MAINTAINER LHM  lhm@ikahe.com
+MAINTAINER LHM lhm@ikahe.com
 
 # 添加阿里云pip
 COPY ./TCP/pip.conf /root/.pip/pip.conf

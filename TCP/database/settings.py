@@ -1,5 +1,5 @@
 X1_CORE_PROD = {
-    'HOST': '192.168.0.126',
+    'HOST': 'yhmes.megmeet.com',
     'PORT': 1434,
     'USER': 'sa',
     'PASSWD': '2018@Ikahe',
@@ -8,7 +8,7 @@ X1_CORE_PROD = {
 }
 
 X1_CORE_DATA = {
-    'HOST': '192.168.0.126',
+    'HOST': 'yhmes.megmeet.com',
     'PORT': 1434,
     'USER': 'sa',
     'PASSWD': '2018@Ikahe',
